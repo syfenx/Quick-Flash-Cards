@@ -1,0 +1,10 @@
+title: Space Flashcards
+author: Sam H. (Descriptions from space.com)
+Mercury:The closest planet to the sun, Mercury is only a bit larger than Earth's moon.
+Venus:The second planet from the sun, Venus is terribly hot, even hotter than Mercury.
+Earth:The third planet from the sun, Earth is a waterworld, with two-thirds of the planet covered by ocean
+Mars:The fourth planet from the sun, is a cold, dusty place. 
+Jupiter:The fifth planet from the sun, Jupiter is huge and is the most massive planet in our solar system.
+Saturn:The sixth planet from the sun is known most for its rings.
+Uranus:The seventh planet from the sun, Uranus is an oddball. It’s the only giant planet whose equator is nearly at right angles to its orbit — it basically orbits on its side.
+Neptune:The eighth planet from the sun, Neptune is known for strong winds — sometimes faster than the speed of sound. Neptune is far out and cold.
